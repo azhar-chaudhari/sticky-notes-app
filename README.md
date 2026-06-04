@@ -21,7 +21,7 @@ A sleek, browser‑based sticky notes application with persistent storage, real�
 
 ## 🚀 Live Demo
 
-[Click here to try Stickies](https://azhar-chaudhari.github.io/stickies-notes-app)  
+[Click here to try Stickies]([https://azhar-chaudhari.github.io/stickies-notes-app](https://stickies-app.netlify.app/))  
 
 
 ## 🛠️ Tech Stack
